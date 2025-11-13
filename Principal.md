@@ -1,19 +1,17 @@
-# 📚 Título del Proyecto en GitHub
-
-> Documento principal para la materia **[Nombre de la Materia]**.
+# 📚 Portafolio de Matematicas Discretas
 
 ---
 
 ## 🎓 Carátula e Información Principal
 
 ### **Materia**
-**`[Matematicas discretas]`**
+**[Matematicas discretas]**
 
 ### **Ciclo Académico**
-**`[Ciclo 1 2025-2026]`**
+**[Ciclo 1 2025-2026]**
 
 ### **Estudiante**
-**`[Ariana Arlette Quezada Fernandez]`**
+**[Ariana Arlette Quezada Fernandez]**
 
 ---
 ---
