@@ -30,7 +30,7 @@ Este portafolio se divide en tres unidades principales.
 ## 🌟 Unidad 1: Lógica Proposicional
 
 * **Objetivo:** Establecer la **base teórica** del proyecto.
-* **Temas Principales:**
+* **Tema tratado:**
     
     #### I. LÓGICA PROPOSICIONAL
     * Bases de la Lógica Proposicional
@@ -58,4 +58,3 @@ Este portafolio se divide en tres unidades principales.
 ### 📌 Notas Importantes
 
 > * Este documento se encuentra en constante **actualización**.
-> * Para revisar el progreso detallado, consulte la sección de *Issues* del repositorio.
