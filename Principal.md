@@ -1,48 +1,58 @@
-# 📚 Portafolio de Matematicas Discretas
+# 💻 Portafolio de Matemáticas Discretas 🔢
 
 ---
 
-## 🎓 Carátula e Información Principal
+## 🎓 Información Principal
 
-### **Materia**
-**[Matematicas discretas]**
-
-### **Ciclo Académico**
-**[Ciclo 1 2025-2026]**
-
-### **Estudiante**
-**[Ariana Arlette Quezada Fernandez]**
+| Aspecto | Detalle |
+| :--- | :--- |
+| **Materia** | **Matemáticas Discretas** |
+| **Estudiante** | Ariana Arlette Quezada Fernández |
+| **Ciclo Académico** | Ciclo 1: 2025-2026 |
 
 ---
 ---
 
-# ➡️ Contenido del Curso (Unidades)
+# 🧭 Estructura del Curso
+
+Este portafolio se divide en tres unidades principales, cubriendo desde la base teórica hasta la implementación práctica y la validación final.
+
+---
 
 ## 🌟 Unidad 1: Fundamentos y Conceptos Iniciales
 
-* Aquí incluiremos los temas introductorios y la base teórica del proyecto.
-* **Temas a cubrir:** Introducción, Alcance, Glosario.
-* [Enlace a archivos de la Unidad 1](/docs/unidad-1)
+* **Objetivo:** Establecer la **base teórica** del proyecto.
+* **Temas Principales:**
+    * Introducción al Proyecto
+    * Alcance y Delimitación
+    * Glosario de Términos Clave
+* 🔗 **Archivos:** [Unidad 1 - Documentos de Base](/docs/unidad-1)
 
 ---
 
 ## 🚀 Unidad 2: Desarrollo y Aplicación Práctica
 
-* Esta sección estará dedicada a la implementación, el código y los detalles de la solución.
-* **Temas a cubrir:** Diseño, Implementación de Módulos, Código Fuente.
-* [Enlace a archivos de la Unidad 2](/docs/unidad-2)
+* **Objetivo:** Mostrar la **implementación** y el **código fuente** de la solución.
+* **Temas Principales:**
+    * Diseño Conceptual
+    * Implementación de Módulos
+    * Código Fuente (Repositorio)
+* 🔗 **Archivos:** [Unidad 2 - Implementación y Código](/docs/unidad-2)
 
 ---
 
 ## ✅ Unidad 3: Pruebas y Conclusiones
 
-* Bloque final para validar el trabajo y presentar los resultados obtenidos.
-* **Temas a cubrir:** Casos de Prueba, Resultados, Conclusiones Finales.
-* [Enlace a archivos de la Unidad 3](/docs/unidad-3)
+* **Objetivo:** Validar el trabajo y presentar los **resultados** obtenidos.
+* **Temas Principales:**
+    * Definición de Casos de Prueba
+    * Análisis de Resultados
+    * Conclusiones y Trabajo Futuro
+* 🔗 **Archivos:** [Unidad 3 - Validación y Resultados](/docs/unidad-3)
 
 ---
 
-### 📌 Notas Adicionales
+### 📌 Notas Importantes
 
-* Este documento está en constante **actualización**.
-* Consulta la sección de *Issues* para ver el progreso del proyecto.
+> * Este documento se encuentra en constante **actualización**.
+> * Para revisar el progreso detallado, consulte la sección de *Issues* del repositorio.
