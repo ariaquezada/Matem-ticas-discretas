@@ -15,9 +15,9 @@
 ## 1.2 🔬 Aprendizaje Práctico Experimental (APE)
 > Aplicación de conocimientos y trabajo experimental.
 
-| Actividad | Objetivo / Enfoque | Grupo | Link de Entrega |
+| Actividad | Objetivo / Enfoque | Link | Grupo |
 | :--- | :--- | :--- | :--- |
-| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | **Dinamita dragón escuadra lobo** | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |
+| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |  |**Dinamita dragón escuadra lobo** |
 
 ---
 
