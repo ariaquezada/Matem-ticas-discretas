@@ -11,18 +11,25 @@
 | **Ciclo Académico** | Ciclo 1: 2025-2026 |
 
 ---
+
+### ℹ️ Información Adicional
+
+Pertenece al grupo: **Dinamita escuadra dragón lobo**
+
+---
 ---
 
 # 🧭 Estructura del Curso
 
-Este portafolio se divide en tres unidades principales, cubriendo desde la base teórica hasta la implementación práctica y la validación final.
+Este portafolio se divide en tres unidades principales.
 
 ---
 
-## 🌟 Unidad 1: Fundamentos y Conceptos Iniciales
+## 🌟 Unidad 1: Lógica Proposicional
 
 * **Objetivo:** Establecer la **base teórica** del proyecto.
 * **Temas Principales:**
+    * **Lógica Proposicional:** Bases, Conceptos y Leyes.
     * Introducción al Proyecto
     * Alcance y Delimitación
     * Glosario de Términos Clave
@@ -32,23 +39,15 @@ Este portafolio se divide en tres unidades principales, cubriendo desde la base 
 
 ## 🚀 Unidad 2: Desarrollo y Aplicación Práctica
 
-* **Objetivo:** Mostrar la **implementación** y el **código fuente** de la solución.
-* **Temas Principales:**
-    * Diseño Conceptual
-    * Implementación de Módulos
-    * Código Fuente (Repositorio)
-* 🔗 **Archivos:** [Unidad 2 - Implementación y Código](/docs/unidad-2)
+* **Temas Principales:** **EN DESARROLLO**
+* 🔗 **Archivos:** **EN DESARROLLO**
 
 ---
 
 ## ✅ Unidad 3: Pruebas y Conclusiones
 
-* **Objetivo:** Validar el trabajo y presentar los **resultados** obtenidos.
-* **Temas Principales:**
-    * Definición de Casos de Prueba
-    * Análisis de Resultados
-    * Conclusiones y Trabajo Futuro
-* 🔗 **Archivos:** [Unidad 3 - Validación y Resultados](/docs/unidad-3)
+* **Temas Principales:** **EN DESARROLLO**
+* 🔗 **Archivos:** **EN DESARROLLO**
 
 ---
 
