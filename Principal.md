@@ -1,4 +1,4 @@
-## 💻 Portafolio de Matemáticas Discretas 🔢
+# 💻 Portafolio de Matemáticas Discretas 🔢
 
 ---
 
@@ -19,6 +19,7 @@
 **DINAMITA ESCUADRA DRAGÓN LOBO**
 
 ---
+---
 
 # 🧭 Estructura del Curso
 
@@ -30,10 +31,12 @@ Este portafolio se divide en tres unidades principales.
 
 * **Objetivo:** Establecer la **base teórica** del proyecto.
 * **Temas Principales:**
-    * **Lógica Proposicional:** Bases, Conceptos y Leyes.
-    * Introducción al Proyecto
-    * Alcance y Delimitación
-    * Glosario de Términos Clave
+    
+    #### I. LÓGICA PROPOSICIONAL
+    * Bases de la Lógica Proposicional
+    * Conceptos Básicos de la Lógica Proposicional
+    * Leyes de Inferencia y Leyes Fundamentales
+    
 * 🔗 **Archivos:** [Unidad 1 - Documentos de Base](Unidad1.md)
 
 ---
@@ -55,3 +58,4 @@ Este portafolio se divide en tres unidades principales.
 ### 📌 Notas Importantes
 
 > * Este documento se encuentra en constante **actualización**.
+> * Para revisar el progreso detallado, consulte la sección de *Issues* del repositorio.
