@@ -19,7 +19,6 @@
 **DINAMITA ESCUADRA DRAGÓN LOBO**
 
 ---
----
 
 # 🧭 Estructura del Curso
 
@@ -56,4 +55,3 @@ Este portafolio se divide en tres unidades principales.
 ### 📌 Notas Importantes
 
 > * Este documento se encuentra en constante **actualización**.
-> * Para revisar el progreso detallado, consulte la sección de *Issues* del repositorio.
