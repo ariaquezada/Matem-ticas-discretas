@@ -17,7 +17,7 @@
 
 | Actividad | Objetivo / Enfoque | Link | Grupo |
 | :--- | :--- | :--- | :--- |
-| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |**Dinamita dragón escuadra lobo** |
+| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |Grupal: **Dinamita dragón escuadra lobo** |
 
 ---
 
