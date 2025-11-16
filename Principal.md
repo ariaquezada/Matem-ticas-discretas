@@ -37,21 +37,21 @@ Este portafolio se divide en tres unidades principales.
     * Conceptos Básicos de la Lógica Proposicional
     * Leyes de Inferencia y Leyes Fundamentales
     
-* 🔗 **Archivos:** [Unidad 1 - Documentos de Base](Unidad1.md)
+ > [Unidad 1 - Documentos de Base](Unidad1.md)
 
 ---
 
 ## 🚀 Unidad 2: Desarrollo y Aplicación Práctica
 
 * **Temas Principales:** **EN DESARROLLO**
-* 🔗 **Archivos:** **EN DESARROLLO**
+  > **Archivos:** **EN DESARROLLO**
 
 ---
 
 ## ✅ Unidad 3: Pruebas y Conclusiones
 
 * **Temas Principales:** **EN DESARROLLO**
-* 🔗 **Archivos:** **EN DESARROLLO**
+  > **Archivos:** **EN DESARROLLO**
 
 ---
 
