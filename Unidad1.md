@@ -7,7 +7,7 @@
 
 | Actividad | Tema / Descripción | Recurso / Entrega | Grupo |
 | :--- | :--- | :--- | :--- |
-| **ACD N.º 1** | Fundamentos de la logica proposicional | [Lin de el trabajo](https://docs.google.com/presentation/d/1myl33C-SCBW8Pgrw_vLYoLV2ZYTqqjaU/edit?usp=drive_link&ouid=105987170627571045169&rtpof=true&sd=true) |Grupal: Dinamita dragon escuadra lobo |
+| **ACD N.º 1** | Fundamentos de la logica proposicional | [Lin de el trabajo](https://docs.google.com/presentation/d/1myl33C-SCBW8Pgrw_vLYoLV2ZYTqqjaU/edit?usp=drive_link&ouid=105987170627571045169&rtpof=true&sd=true) |Grupal: **Dinamita dragón escuadra lobo** |
 | **ACD N.º 2** | Sesión de resolución de problemas avanzados. Material: Capítulo 3 del libro. | [Link del trabajo](https://docs.google.com/presentation/d/1J0kx6uSD1Yf9frcSKJRfpROmkc6Ma5AB/edit?usp=drive_link&ouid=105987170627571045169&rtpof=true&sd=true) | Individual |
 
 ---
@@ -17,7 +17,7 @@
 
 | Actividad | Objetivo / Enfoque | Grupo | Link de Entrega |
 | :--- | :--- | :--- | :--- |
-| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | **Dinamita escuadra dragón lobo** | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |
+| **APE N.º 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | **Dinamita dragón escuadra lobo** | 🔗 [Actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |
 
 ---
 
