@@ -25,7 +25,7 @@
 
 | Actividad | Tipo / Tema | Recurso / Entrega |
 | :--- | :--- | :--- |
-| **AA numero 1** | Lectura comprensiva y elaboración de un **mapa conceptual** sobre [Concepto clave de la unidad]. | **Recurso:** Artículo "X" (Disponible en Drive) |
+| **AA numero 1** | Lectura comprensiva y elaboración de un **mapa conceptual** sobre [Concepto clave de la unidad]. | [Link de la actividad](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |
 | **AA numero 2** | Ejercicios de autoevaluación y **resolución de problemas** (Ej. 1-10 de la guía). | **Entrega:** Soluciones escaneadas a la plataforma. |
 
 ---
