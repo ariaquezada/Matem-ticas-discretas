@@ -26,7 +26,7 @@ Este portafolio se divide en tres unidades principales, cubriendo desde la base 
     * Introducción al Proyecto
     * Alcance y Delimitación
     * Glosario de Términos Clave
-* 🔗 **Archivos:** [Unidad 1 - Documentos de Base](/docs/unidad-1)
+* 🔗 **Archivos:** [Unidad 1 - Documentos de Base](Unidad1.md)
 
 ---
 
