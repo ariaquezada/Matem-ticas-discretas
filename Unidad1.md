@@ -15,11 +15,9 @@
 ## 1.2 🔬 Aprendizaje Práctico Experimental (APE)
 > Aplicación de conocimientos y trabajo experimental.
 
-| Actividad | Objetivo / Enfoque | Entrega / Grupo |
+| Actividad | Objetivo / Enfoque |  Grupo |
 | :--- | :--- | :--- |
-| **APE 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | [Link de la actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link). **Límite:** [DD/MM/AAAA] |
-| **APE 2** | Simulación de un **caso de estudio real**. | Presentación de resultados. **Grupo:** 3 personas |
-
+| **APE 1** | Desarrollar un **prototipo básico** utilizando [Herramienta/Lenguaje]. | [Link de la actividad realizada](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link). 
 ---
 
 ## 1.3 🧠 Actividades de Aprendizaje Autónomo (AA)
