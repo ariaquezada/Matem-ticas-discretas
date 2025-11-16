@@ -1,22 +1,22 @@
-# 💻 Portafolio de Matemáticas Discretas 🔢
+## 💻 Portafolio de Matemáticas Discretas 🔢
 
 ---
 
 ## 🎓 Información Principal
 
-### Materia
-**Matemáticas Discretas**
+### 📚 Materia
+**MATEMÁTICAS DISCRETAS**
 
-### Estudiante
-**Ariana Arlette Quezada Fernández**
+### 👩‍🎓 Estudiante
+**ARIANA ARLETTE QUEZADA FERNÁNDEZ**
 
-### Ciclo Académico
-**Ciclo 1: 2025-2026**
+### 📅 Ciclo Académico
+**CICLO 1: 2025-2026**
 
 ---
 
 ### ℹ️ Perteneciente al Grupo
-**Dinamita escuadra dragón lobo**
+**DINAMITA ESCUADRA DRAGÓN LOBO**
 
 ---
 ---
