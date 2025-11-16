@@ -26,11 +26,7 @@
 
 | Actividad | Tipo / Tema | Recurso / Entrega | Grupo |
 | :--- | :--- | :--- | :--- |
-| **AA N.º 1** | Lectura comprensiva y elaboración de un **mapa conceptual** sobre [Concepto clave de la unidad]. | 🔗 [Link de la actividad](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) | Individual |
+| **AA N.º 1** | Lectura comprensiva y elaboración de un **mapa conceptual** sobre [Concepto clave de la unidad]. | 🔗 [Link de la actividad](https://drive.google.com/file/d/1G6gv-QTw95h_-dKQVZGCViJdsE3CaGnl/view?usp=drive_link) |  Grupal: **Dinamita dragón escuadra lobo** |
 | **AA N.º 2** | Ejercicios de autoevaluación y **resolución de problemas** (Ej. 1-10 de la guía). | Es el portafolio actual. **Link:** Documento subido. | Individual |
 
 ---
-
-### 📌 Notas de la Unidad
-
-> [Aquí puedes añadir cualquier nota adicional sobre la unidad, como ponderación de notas o recomendaciones generales.]
