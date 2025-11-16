@@ -4,17 +4,19 @@
 
 ## 🎓 Información Principal
 
-| Aspecto | Detalle |
-| :--- | :--- |
-| **Materia** | **Matemáticas Discretas** |
-| **Estudiante** | Ariana Arlette Quezada Fernández |
-| **Ciclo Académico** | Ciclo 1: 2025-2026 |
+### Materia
+**Matemáticas Discretas**
+
+### Estudiante
+**Ariana Arlette Quezada Fernández**
+
+### Ciclo Académico
+**Ciclo 1: 2025-2026**
 
 ---
 
-### ℹ️ Información Adicional
-
-Pertenece al grupo: **Dinamita escuadra dragón lobo**
+### ℹ️ Perteneciente al Grupo
+**Dinamita escuadra dragón lobo**
 
 ---
 ---
